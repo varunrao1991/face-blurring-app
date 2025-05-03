@@ -1,6 +1,6 @@
 # Face Blurring Application
 
-![App Screenshot](screenshot.jpg) *(You can add a screenshot later)*
+![App Screenshot](screenshot.jpg)
 
 A PyQt5-based application for detecting and blurring faces in images recursively through folders. The application provides an intuitive interface for selecting which faces to blur and adjusting the blur intensity.
 
